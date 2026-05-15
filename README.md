@@ -1,6 +1,8 @@
 # BMI-Calculator-Streamlit-app
 This is a simple Streamlit application that calculates the Body Mass Index (BMI) based on user input for weight and height.
+
 How to use
+
 Enter your weight in kilograms.
 Enter your height in meters.
 Click on the 'Calculate BMI' button to see your BMI.
